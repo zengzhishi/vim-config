@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/autoload/omni/cpp
+END
+includes.vim
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/autoload/omni/cpp/includes.vim
+END
+complete.vim
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/autoload/omni/cpp/complete.vim
+END
+complete.bak
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/autoload/omni/cpp/complete.bak
+END
+tokenizer.vim
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/autoload/omni/cpp/tokenizer.vim
+END
+maycomplete.vim
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/autoload/omni/cpp/maycomplete.vim
+END
+namespaces.vim
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/autoload/omni/cpp/namespaces.vim
+END
+settings.vim
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/autoload/omni/cpp/settings.vim
+END
+utils.vim
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/autoload/omni/cpp/utils.vim
+END
+items.vim
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/autoload/omni/cpp/items.vim
+END

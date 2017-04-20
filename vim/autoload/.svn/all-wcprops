@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/autoload
+END
+pathogen.vim
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/autoload/pathogen.vim
+END
+cppomnicomplete.vim
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/autoload/cppomnicomplete.vim
+END
+pyclewn.vim
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/autoload/pyclewn.vim
+END

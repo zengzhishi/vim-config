@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin
+END
+tex_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/tex_snippets.vim
+END
+propel_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/propel_snippets.vim
+END
+actionscript_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/actionscript_snippets.vim
+END
+perl_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/perl_snippets.vim
+END
+symfony_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/symfony_snippets.vim
+END
+rails_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/rails_snippets.vim
+END
+sh_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/sh_snippets.vim
+END
+latex_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/latex_snippets.vim
+END
+phpdoc_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/phpdoc_snippets.vim
+END
+smarty_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/smarty_snippets.vim
+END
+template_toolkit_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/template_toolkit_snippets.vim
+END
+java_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/java_snippets.vim
+END
+django_model_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/django_model_snippets.vim
+END
+haskell_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/haskell_snippets.vim
+END
+asp_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/asp_snippets.vim
+END
+xhtml_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/xhtml_snippets.vim
+END
+django_template_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/django_template_snippets.vim
+END
+cpp.vim
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/cpp.vim
+END
+logo_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/logo_snippets.vim
+END
+html_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/html_snippets.vim
+END
+javascript_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/javascript_snippets.vim
+END
+slate_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/slate_snippets.vim
+END
+objc_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/objc_snippets.vim
+END
+python_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/python_snippets.vim
+END
+ruby_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/ruby_snippets.vim
+END
+c_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/c_snippets.vim
+END
+markdown_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/markdown_snippets.vim
+END
+tcl_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/tcl_snippets.vim
+END
+snippy_bundles.vba
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/snippy_bundles.vba
+END
+f-script_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/f-script_snippets.vim
+END
+php_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/php_snippets.vim
+END
+css_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/css_snippets.vim
+END
+ocaml_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/ocaml_snippets.vim
+END
+c.vim
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/c.vim
+END
+aspvbs_snippets.vim
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/opencode/!svn/ver/8677/trunk/maguannan/vim/vimdot/after/ftplugin/aspvbs_snippets.vim
+END
