@@ -1,0 +1,88 @@
+"=========================================================================
+" DesCRiption: simple vimrc for Linux
+"
+" 添加了ctags，cscope，taglist的配置
+"
+"=========================================================================
+
+set tags=tags;
+set autochdir
+
+set encoding=utf-8
+set fileencodings=utf-8
+"set fileencoding=utf-8
+set termencoding=utf-8
+
+set smarttab
+set tabstop=4
+set expandtab
+set shiftwidth=4
+set autoindent
+set cindent
+set mouse-=a
+set nu
+retab
+
+
+"if MySys() == "windows"                " 设定windows系统中ctags程序的位置                                                        
+"    let Tlist_Ctags_Cmd = '"'.$VIMRUNTIME.'/ctags.exe"'                                                                          
+"elseif MySys() == "linux"              " 设定windows系统中ctags程序的位置                                                        
+"    let Tlist_Ctags_Cmd = '/usr/bin/ctags'                                                                                       
+"endif                                                                                                                            
+let Tlist_Use_Right_Window = 1         " 在右侧窗口中显示taglist窗口                                                             
+let Tlist_File_Fold_Auto_Close=1       " 自动折叠当前非编辑文件的方法列表                                                        
+let Tlist_Auto_Open = 0                                                                                                          
+let Tlist_Show_One_File=1                                                                                                        
+let Tlist_Exit_OnlyWindow=1                                                                                                      
+let Tlist_File_Fold_Auto_Close=1    "taglist 只显示当前文件 tag，其它文件的tag折叠。                                             
+let Tlist_Auto_Update = 1                                                                                                        
+let Tlist_Hightlight_Tag_On_BufEnter = 1                                                                                         
+let Tlist_Enable_Fold_Column = 0                                                                                                 
+let Tlist_Process_File_Always = 1                                                                                                
+let Tlist_Display_Prototype = 0                                                                                                  
+let Tlist_Compact_Format = 1     
+
+"nnoremap <silent> <F8> :TlistToggle<CR>
+nnoremap <S-T> :TlistToggle<CR>
+
+" :Tlist              调用TagList
+"let Tlist_Show_One_File=0                    " 只显示当前文件的tags
+"let Tlist_Exit_OnlyWindow=1                  " 如果Taglist窗口是最后一个窗口则退出Vim
+"let Tlist_Use_Right_Window=1                 " 在右侧窗口中显示
+"let Tlist_File_Fold_Auto_Close=1             " 自动折叠
+
+colorscheme elflord
+
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+"                               cscope config                                  "
+"                                                                              "
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+if has("cscope") && filereadable("/usr/bin/cscope")
+    set csto=1
+    set cscopetag
+    set cst 
+    set nocsverb
+
+    set csprg=/usr/bin/cscope
+    set cscopetagorder=1
+
+    " add any database in current directory
+    if filereadable("cscope.out")
+        cs add cscope.out 
+        "cs add /usr/src/redhat/BUILD/kernel-2.6.18/linux-2.6.18.x86_64/cscope.out /usr/src/redhat/BUILD/kernel-2.6.18/linux-2.6.18.x86_64/
+    elseif $CSCOPE_DB != ""
+        cs add $CSCOPE_DB
+    endif
+    set csverb
+endif
+
+
+nmap <C-m>s :cs find s <C-R>=expand("<cword>")<CR><CR>
+nmap <C-m>g :cs find g <C-R>=expand("<cword>")<CR><CR>
+nmap <C-m>c :cs find c <C-R>=expand("<cword>")<CR><CR>
+nmap <C-m>t :cs find t <C-R>=expand("<cword>")<CR><CR>
+nmap <C-m>e :cs find e <C-R>=expand("<cword>")<CR><CR>
+nmap <C-m>f :cs find f <C-R>=expand("<cfile>")<CR><CR>
+nmap <C-m>i :cs find i ^<C-R>=expand("<cfile>")<CR>$<CR>
+nmap <C-m>d :cs find d <C-R>=expand("<cword>")<CR><CR>
